@@ -1,4 +1,4 @@
-:root{--ink:#4a3320;--gold:#c9a227}
+:root{--ink:#4a3320}
 body{margin:0;min-height:100vh;display:grid;place-items:center;background:#efe9dc;color:var(--ink)}
 #map{position:relative;aspect-ratio:16/9;width:min(96vw,calc(96vh*16/9));
      background:url(map.png) center/100% 100% no-repeat}
