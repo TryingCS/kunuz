@@ -1,5 +1,5 @@
 :root{--ink:#4a3320;--green:#2ecc71}
-body{margin:0;min-height:100vh;display:grid;place-items:center;background:#efe9dc;color:var(--ink)}
+body{ font-family:"Amiri",serif ;margin:0;min-height:100vh;display:grid;place-items:center;background:#efe9dc;color:var(--ink)}
 #map{position:relative;aspect-ratio:16/9;width:min(96vw,calc(96vh*16/9));
      background:url(map.png) center/100% 100% no-repeat}
 .marker{position:absolute;transform:translate(-50%,-50%);
@@ -30,4 +30,5 @@ body{margin:0;min-height:100vh;display:grid;place-items:center;background:#efe9d
        background:#f7efdd;border:2px solid var(--ink);border-radius:6px;
        box-shadow:0 8px 24px rgba(0,0,0,.35)}
 #panel .ar{font-size:1.3rem;line-height:2}
+#panel h2{font-family:"Aref Ruqaa",serif;font-weight:400}
 footer{position:fixed;bottom:4px;inset-inline-start:8px;font-size:.75rem;opacity:.6}
