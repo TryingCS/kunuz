@@ -1,0 +1,72 @@
+[
+  {
+    "id": "makkah",
+    "x": 50, "y": 49,
+    "place_ar": "مكة",
+    "place_en": "Makkah",
+    "place_fr": "La Mecque",
+    "text_ar": "مَا أَطْيَبَكِ مِنْ بَلَدٍ وَأَحَبَّكِ إِلَيَّ",
+    "text_en": "What a good town you are, and how beloved you are to me.",
+    "text_fr": "Quelle excellente cité tu es, et combien tu m'es chère.",
+    "type": "hadith",
+    "source": "Tirmidhi",
+    "grade": "Sahih",
+    "dorar": ""
+  },
+  {
+    "id": "madinah",
+    "x": 40, "y": 44,
+    "place_ar": "المدينة",
+    "place_en": "Madinah",
+    "place_fr": "Médine",
+    "text_ar": "إِنَّ الْإِيمَانَ لَيَأْرِزُ إِلَى الْمَدِينَةِ كَمَا تَأْرِزُ الْحَيَّةُ إِلَى جُحْرِهَا",
+    "text_en": "Faith retreats to Madinah just as a snake retreats to its hole.",
+    "text_fr": "La foi se retire à Médine tout comme le serpent se retire dans son trou.",
+    "type": "hadith",
+    "source": "Bukhari & Muslim",
+    "grade": "Sahih",
+    "dorar": ""
+  },
+  {
+    "id": "yemen",
+    "x": 45, "y": 84,
+    "place_ar": "اليمن",
+    "place_en": "Yemen",
+    "place_fr": "Yémen",
+    "text_ar": "الْإِيمَانُ يَمَانٍ وَالْحِكْمَةُ يَمَانِيَةٌ",
+    "text_en": "Faith is Yemeni and wisdom is Yemeni.",
+    "text_fr": "La foi est yéménite et la sagesse est yéménite.",
+    "type": "hadith",
+    "source": "Bukhari & Muslim",
+    "grade": "Sahih",
+    "dorar": ""
+  },
+  {
+    "id": "sham",
+    "x": 33, "y": 26,
+    "place_ar": "الشام",
+    "place_en": "Ash-Sham",
+    "place_fr": "Ash-Sham",
+    "text_ar": "اللَّهُمَّ بَارِكْ لَنَا فِي شَامِنَا وَيَمَنِنَا",
+    "text_en": "O Allah, bless us in our Sham and our Yemen.",
+    "text_fr": "Ô Allah, bénis notre Sham et notre Yémen.",
+    "type": "hadith",
+    "source": "Bukhari",
+    "grade": "Sahih",
+    "dorar": ""
+  },
+  {
+    "id": "egypt",
+    "x": 23, "y": 58,
+    "place_ar": "مصر",
+    "place_en": "Egypt",
+    "place_fr": "Égypte",
+    "text_ar": "سَتَفْتَحُونَ أَرْضًا يُذْكَرُ فِيهَا الْقِيرَاطُ فَاسْتَوْصُوا بِأَهْلِهَا خَيْرًا",
+    "text_en": "You will conquer a land where the qirat is mentioned, so treat its people well.",
+    "text_fr": "Vous allez conquérir une terre où le qirat est mentionné, alors traitez bien ses habitants.",
+    "type": "hadith",
+    "source": "Muslim",
+    "grade": "Sahih",
+    "dorar": ""
+  }
+]
