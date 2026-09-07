@@ -3,6 +3,7 @@ fetch('content.json').then(r=>r.json()).then(items=>items.forEach(it=>{
   const b=document.createElement('button');
   b.className='marker';b.style.left=it.x+'%';b.style.top=it.y+'%';
   b.setAttribute('aria-label',it.place_ar);
+  b.innerHTML = `<span class="tip">${it.place_ar}</span>`;
   b.addEventListener('click',()=>{
     panel.hidden=false;
     panel.innerHTML=`
