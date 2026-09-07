@@ -18,3 +18,11 @@ fetch('content.json').then(r=>r.json()).then(items=>items.forEach(it=>{
   });
   map.appendChild(b);
 }));
+// to demiss anywhere 
+map.addEventListener('click', e => {
+  if (!e.target.closest('.marker')) panel.hidden = true;
+});
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') panel.hidden = true;
+});
