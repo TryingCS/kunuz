@@ -26,3 +26,12 @@ map.addEventListener('click', e => {
 document.addEventListener('keydown', e => {
   if (e.key === 'Escape') panel.hidden = true;
 });
+if (new URLSearchParams(location.search).has('edit')) {
+  map.addEventListener('click', e => {
+    e.stopPropagation();
+    const r = map.getBoundingClientRect();
+    const x = ((e.clientX - r.left) / r.width * 100).toFixed(1);
+    const y = ((e.clientY - r.top) / r.height * 100).toFixed(1);
+    navigator.clipboard.writeText(`"x": ${x}, "y": ${y}`);
+  }, true);
+}
