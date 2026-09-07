@@ -107,11 +107,6 @@ data/map-virtues.json   room data (currently the only room; 5 hotspots)
 
 ## Decisions log (why)
 
-- Website not app: shareable, no install, free hosting, fits hover+landscape;
-  PWA possible later.
-- Vanilla trio not a framework: static content, simple interactions, easy to
-  vibe-code and review.
-- GitHub Pages over Vercel: purely static, free, no card.
 - Hub + per-room home link (TODO) instead of prev/next arrows: rooms are
   heterogeneous; series are expressed as hub sections, not navigation order.
 - Future geo themes = same map image + different data file (layers); commission a
@@ -131,12 +126,10 @@ data/map-virtues.json   room data (currently the only room; 5 hotspots)
 - [ ] Hub grid: with a single card, `auto-fit` stretches it full-width;
       `.room{max-width:350px;margin:0 auto}` keeps it tidy until more rooms exist.
 
-## Invariants — read before changing anything (AI assistants & future me)
-
+## Invariants — read before changing anything
 1. Keep vanilla HTML/CSS/JS + JSON; no frameworks, no build step.
 2. `entries` stays an array; dots render only when >1.
 3. Sacred text always Arabic; metadata as codes via i18n dictionary.
-4. Do not regenerate `assets/images/map.png` — hotspot coords are tuned to it.
-5. Parchment style system everywhere; accents via CSS vars only.
-6. Verify hadith grading + Dorar URLs by hand before committing content.
-7. Deploy = push to `main`; always verify with a hard refresh.
+4. Parchment style system everywhere; accents via CSS vars only.
+5. Verify hadith grading + Dorar URLs by hand before committing content.
+6. Deploy = push to `main`.
