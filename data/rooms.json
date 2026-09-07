@@ -1,0 +1,9 @@
+[
+  {
+    "id": "map-virtues",
+    "title": { "ar": "خريطة فضائل البلدان", "en": "Map of the virtues of countries", "fr": "Carte des vertus des pays" },
+    "image": "assets/images/map.png",
+    "series": "prophetic-lens",
+    "dataFile": "data/map-virtues.json"
+  }
+]
