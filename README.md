@@ -132,4 +132,3 @@ data/map-virtues.json   room data (currently the only room; 5 hotspots)
 3. Sacred text always Arabic; metadata as codes via i18n dictionary.
 4. Parchment style system everywhere; accents via CSS vars only.
 5. Verify hadith grading + Dorar URLs by hand before committing content.
-6. Deploy = push to `main`.
