@@ -1,0 +1,82 @@
+[
+  {
+    "id": "makkah",
+    "x": 50, "y": 49,
+    "place": { "ar": "مكة", "en": "Makkah", "fr": "La Mecque" },
+    "entries": [
+      {
+        "type": "hadith",
+        "text_ar": "مَا أَطْيَبَكِ مِنْ بَلَدٍ وَأَحَبَّكِ إِلَيَّ",
+        "tr": { "en": "What a good town you are, and how beloved you are to me.", "fr": "Quelle excellente cité tu es, et combien tu m'es chère." },
+        "source": "tirmidhi",
+        "grade": "sahih",
+        "dorar": "https://dorar.net/hadith/sharh/36363",
+        "note": { "ar": "قالها يوم خرج من مكة", "en": "He said this when leaving Makkah", "fr": "Il a dit cela en quittant La Mecque" }
+      }
+    ]
+  },
+  {
+    "id": "madinah",
+    "x": 40, "y": 44,
+    "place": { "ar": "المدينة", "en": "Madinah", "fr": "Médine" },
+    "entries": [
+      {
+        "type": "hadith",
+        "text_ar": "إِنَّ الْإِيمَانَ لَيَأْرِزُ إِلَى الْمَدِينَةِ كَمَا تَأْرِزُ الْحَيَّةُ إِلَى جُحْرِهَا",
+        "tr": { "en": "Faith retreats to Madinah just as a snake retreats to its hole.", "fr": "La foi se retire à Médine tout comme le serpent se retire dans son trou." },
+        "source": "bukhari-muslim",
+        "grade": "sahih",
+        "dorar": "https://dorar.net/hadith/sharh/1520",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "yemen",
+    "x": 45, "y": 84,
+    "place": { "ar": "اليمن", "en": "Yemen", "fr": "Yémen" },
+    "entries": [
+      {
+        "type": "hadith",
+        "text_ar": "الْإِيمَانُ يَمَانٍ وَالْحِكْمَةُ يَمَانِيَةٌ",
+        "tr": { "en": "Faith is Yemeni and wisdom is Yemeni.", "fr": "La foi est yéménite et la sagesse est yéménite." },
+        "source": "bukhari-muslim",
+        "grade": "sahih",
+        "dorar": "https://dorar.net/hadith/sharh/150320",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "sham",
+    "x": 33, "y": 26,
+    "place": { "ar": "الشام", "en": "Ash-Sham", "fr": "Ash-Sham" },
+    "entries": [
+      {
+        "type": "hadith",
+        "text_ar": "اللَّهُمَّ بَارِكْ لَنَا فِي شَامِنَا وَيَمَنِنَا",
+        "tr": { "en": "O Allah, bless us in our Sham and our Yemen.", "fr": "Ô Allah, bénis notre Sham et notre Yémen." },
+        "source": "bukhari",
+        "grade": "sahih",
+        "dorar": "https://dorar.net/hadith/sharh/6823",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "egypt",
+    "x": 23, "y": 58,
+    "place": { "ar": "مصر", "en": "Egypt", "fr": "Égypte" },
+    "entries": [
+      {
+        "type": "hadith",
+        "text_ar": "سَتَفْتَحُونَ أَرْضًا يُذْكَرُ فِيهَا الْقِيرَاطُ فَاسْتَوْصُوا بِأَهْلِهَا خَيْرًا",
+        "tr": { "en": "You will conquer a land where the qirat is mentioned, so treat its people well.", "fr": "Vous allez conquérir une terre où le qirat est mentionné, alors traitez bien ses habitants." },
+        "source": "muslim",
+        "grade": "sahih",
+        "dorar": "https://dorar.net/hadith/sharh/152274",
+        "note": null
+      }
+    ]
+  }
+]
