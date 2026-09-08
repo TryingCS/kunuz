@@ -5,7 +5,7 @@
     "image": "assets/images/map.png",
     "series": "prophetic-lens",
     "dataFile": "data/map-virtues.json"
-  }
+  } , 
 
 {
   "id": "table-sunnah",
