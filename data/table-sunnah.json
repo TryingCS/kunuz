@@ -37,7 +37,7 @@
   { "id": "ajwa", "x": 37, "y": 30,
     "place": { "ar": "تمر العجوة", "en": "Ajwa dates", "fr": "Dattes ajwa" },
     "entries": [{ "type": "hadith",
-      "text_ar": "2 - مَن تَصَبَّحَ كُلَّ يَومٍ سَبعَ تَمَراتٍ عَجوةً، لم يَضُرَّه في ذلك اليَومِ سُمٌّ ولا سِحرٌ.",
+      "text_ar": "مَن تَصَبَّحَ كُلَّ يَومٍ سَبعَ تَمَراتٍ عَجوةً، لم يَضُرَّه في ذلك اليَومِ سُمٌّ ولا سِحرٌ.",
       "tr": { "en": "Whoever eats seven ajwa dates in the morning will not be harmed that day by poison or magic.", "fr": "Quiconque mange sept dattes ajwa le matin ne sera touché ce jour-là ni par le poison ni par la magie." },
       "source": "bukhari", "grade": "sahih", "dorar": "https://dorar.net/hadith/sharh/151142", "note": null }] },
   { "id": "truffle", "x": 40, "y": 76,
