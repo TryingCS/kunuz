@@ -13,5 +13,12 @@
   "image": "assets/images/table.png",
   "series": "prophetic-lens",
   "dataFile": "data/table-sunnah.json"
+},
+  {
+  "id": "plant-parables",
+  "title": { "ar": "النبات في السنة: أمثال ودروس", "en": "Plants in the Sunnah: Parables & Lessons", "fr": "Les plantes dans la Sunna : paraboles et leçons" },
+  "image": "assets/images/plants.png",
+  "series": "prophetic-lens",
+  "dataFile": "data/plant-parables.json"
 }
 ]
