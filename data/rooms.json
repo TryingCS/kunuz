@@ -7,3 +7,10 @@
     "dataFile": "data/map-virtues.json"
   }
 ]
+{
+  "id": "table-sunnah",
+  "title": { "ar": "المائدة النبوية", "en": "The Prophetic Table", "fr": "La Table Prophétique" },
+  "image": "assets/images/table.png",
+  "series": "prophetic-lens",
+  "dataFile": "data/table-sunnah.json"
+}
