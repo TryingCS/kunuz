@@ -116,7 +116,7 @@ data/map-virtues.json   room data (currently the only room; 5 hotspots)
 
 ## Roadmap / TODO
 
-- [ ] Room #2 (kitchen or a map layer: hijra/trade routes) to prove the template.
+- [x] Room #2 (kitchen or a map layer: hijra/trade routes) to prove the template.
 - [ ] Home/فهرس stamp button inside rooms (back to hub).
 - [ ] Language toggle UI (AR default, one translation at a time).
 - [ ] i18n: source labels in dictionary; move footer/hub strings into dictionary.
