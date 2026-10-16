@@ -20,5 +20,12 @@
   "image": "assets/images/plants.png",
   "series": "prophetic-lens",
   "dataFile": "data/plant-parables.json"
+},
+  {
+  "id": "animal-parables",
+  "title": { "ar": "الحيوان في السنة: أمثال وعبر", "en": "Animals in the Sunnah: Parables & Lessons", "fr": "Les animaux dans la Sunna : paraboles et leçons" },
+  "image": "assets/images/animals.png",
+  "series": "prophetic-lens",
+  "dataFile": "data/animal-parables.json"
 }
 ]
