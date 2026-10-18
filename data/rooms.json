@@ -27,5 +27,12 @@
   "image": "assets/images/animals.png",
   "series": "prophetic-lens",
   "dataFile": "data/animal-parables.json"
+},
+  {
+  "id": "materials-parables",
+  "title": { "ar": "المعادن والمواد في السنة: أمثال وعظات", "en": "Materials in the Sunnah: Parables & Admonitions", "fr": "Matériaux dans la Sunna : paraboles et admonitions" },
+  "image": "assets/images/materials.png",
+  "series": "prophetic-lens",
+  "dataFile": "data/materials-parables.json"
 }
 ]
